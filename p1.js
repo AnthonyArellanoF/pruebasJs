@@ -237,3 +237,4 @@ function createMap(word1) {
 }
 
 //anagrama2("amora amora","mora mora")
+//primera actualizacion (1111)
